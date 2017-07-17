@@ -25,7 +25,7 @@ h = 2 # height
 puts Area.rectangle(w, h)
 - This will return [2.0]
 
-## Others
+### Others
 ------
-Area.circle(r) # r is the radius
-Area.parallelogram(b, h) # b is the base, h is the height
+- Area.circle(r) # r is the radius
+- Area.parallelogram(b, h) # b is the base, h is the height
